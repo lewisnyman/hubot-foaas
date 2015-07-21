@@ -2,8 +2,8 @@
 #   Basic interface for FOAAS.com
 #
 # Commands
-#   fu <object> - tells <object> to f off with random response from FOASS
-#   fu - express displeasure with random response from FOASS
+#   fu <object> - tells <object> to f off with random response from FOAAS
+#   fu - express displeasure with random response from FOAAS
 #
 # Dependencies:
 #   None
